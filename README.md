@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a novice Java Developer
+### I'm a Java Developer
 
 <div align="center">
   <a href="https://github.com/willianprates">
